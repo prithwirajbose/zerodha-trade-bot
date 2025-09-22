@@ -1,0 +1,27 @@
+# Compiled code and build artifacts
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+*.launch
+*.prefs
+conf.json
+
+# Maven specific files
+pom.xml.versionsBackup
+release.properties
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor backup files
+*~
+*.bak
+*.swp
